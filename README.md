@@ -4,8 +4,8 @@
 
 This repository contains Flow templates to help you get started with building digital payment experiences using Experience Cloud and FinDock Payment Experiences. The three flows included are designed for Salesforce orgs with [Nonprofit Success Pack](https://help.salesforce.com/s/articleView?id=sfdo.nonprofit_success_pack.htm&type=5) (NPSP):
 
-* **Contact\_Assignment**: example of how to use a Flow element to identify the donor  
-* **One\_Screen\_Dontation\_Flow**: Screen flow with a single donation step  
+* **One\_Screen\_Dontation\_Flow**: Screen flow with a single donation step
+* **Contact\_Assignment**: helper Flow for the single screen donation flow
 * **Multi\_Screen\_Donation\_Flow**: Screen flow with two donation steps
 
 These templates are meant to be customized and extended to fit specific use cases and requirements. For other options, see [Templates for FinDock Payment Experiences](https://github.com/FinDockLabs/experience-cloud-templates). 
