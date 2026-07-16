@@ -1,0 +1,3 @@
+[submodule "experience-cloud-additional-components"]
+	path = force-app/main/default/experience-cloud-additional-components
+	url = https://github.com/FinDockLabs/experience-cloud-additional-components.git
