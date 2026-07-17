@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LightningComponentBundle xmlns="http://soap.sforce.com/2006/04/metadata">
-    <apiVersion>66.0</apiVersion>
+    <apiVersion>67.0</apiVersion>
     <description>Amount and Frequency Selector for donation forms</description>
     <isExposed>true</isExposed>
     <masterLabel>Amount and Frequency Selector</masterLabel>
@@ -9,6 +9,7 @@
     </targets>
     <targetConfigs>
         <targetConfig targets="lightning__FlowScreen" configurationEditor="c-amount-and-frequency-config">
+
             <property name="freq1Value" type="String" role="inputOnly" label="Frequency 1 — API value" description="API value for the first frequency option." default="oneTime"/>
             <property name="freq2Value" type="String" role="inputOnly" label="Frequency 2 — API value" description="API value for the second frequency option." default="recurring"/>
             <property name="showFrequencyToggle" type="Boolean" role="inputOnly" label="Show frequency toggle" description="Uncheck to hide the toggle and always submit frequency 1." default="true"/>
