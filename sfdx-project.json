@@ -1,11 +1,11 @@
 {
   "packageDirectories": [
     {
-      "path": "force-app/main/experience-cloud-additional-components",
+      "path": "experience-cloud-additional-components",
       "default": true
     },
     {
-      "path": "force-app/main/default/flows",
+      "path": "force-app",
       "default": false
     }
   ],
