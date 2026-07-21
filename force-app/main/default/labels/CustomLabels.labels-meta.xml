@@ -84,8 +84,7 @@
     </labels>
     <labels>
         <fullName>ec_label_donation_frequency</fullName>
-        <categories>FinDock, Experience Cloud</categories>
-        <categories>Accessibility</categories>
+        <categories>FinDock, Accessibility</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Assistive text for the donation frequency group</shortDescription>
@@ -93,8 +92,7 @@
     </labels>
     <labels>
         <fullName>ec_label_preset_amount_group</fullName>
-        <categories>FinDock, Experience Cloud</categories>
-        <categories>Accessibility</categories>
+        <categories>FinDock, Accessibility</categories>
         <language>en_US</language>
         <protected>true</protected>
         <shortDescription>Assistive text for the preset donation amount group</shortDescription>
