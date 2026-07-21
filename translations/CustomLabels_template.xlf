@@ -6,6 +6,18 @@
             <source>Step {0} of 3</source>
             <target></target>
         </trans-unit>
+        <trans-unit id="CustomLabel.ec_stage_label_amount" maxwidth="1000" size-unit="char">
+            <source>Amount</source>
+            <target></target>
+        </trans-unit>
+        <trans-unit id="CustomLabel.ec_stage_label_information" maxwidth="1000" size-unit="char">
+            <source>Information</source>
+            <target></target>
+        </trans-unit>
+        <trans-unit id="CustomLabel.ec_stage_label_payment" maxwidth="1000" size-unit="char">
+            <source>Payment</source>
+            <target></target>
+        </trans-unit>
         <trans-unit id="CustomLabel.ec_label_donation_amount_heading" maxwidth="1000" size-unit="char">
             <source>Select Your Donation Amount</source>
             <target></target>
