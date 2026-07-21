@@ -30,6 +30,14 @@
             <source>Other amount</source>
             <target></target>
         </trans-unit>
+        <trans-unit id="CustomLabel.ec_label_donation_frequency" maxwidth="1000" size-unit="char">
+            <source>Donation frequency</source>
+            <target></target>
+        </trans-unit>
+        <trans-unit id="CustomLabel.ec_label_preset_amount_group" maxwidth="1000" size-unit="char">
+            <source>Select a preset donation amount</source>
+            <target></target>
+        </trans-unit>
         </body>
     </file>
 </xliff>
